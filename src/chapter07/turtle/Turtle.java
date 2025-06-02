@@ -1,4 +1,4 @@
-package chapter07;
+package chapter07.turtle;
 
 /**AUTHOR: NICHOLAS SEWARD
  * EMAIL: nicholas.seward@gmail.com
@@ -15,7 +15,6 @@ package chapter07;
  *    U U      U U      U U      U U      U U      U U      U U      U U
  */
 
-import java.applet.Applet;
 import java.awt.event.*;
 import javax.swing.*;
 import java.awt.*;
